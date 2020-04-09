@@ -7,9 +7,7 @@ Répartition des tâches de dévelopepemnt:
 
 YANN :  brickshooter.py  ==> Menu principal (affichage regle, choix equipement,sauvegaDE)
 
-gameComponents   ==> Creation composant du jeu (joueur, ennemies, terrain, missi
-Ecran Fin de Partie
-Sauvegarde score et crédit
+gameComponents   ==> Creation composant du jeu (joueur, ennemies, terrain, missile) Ecran Fin de Partie / Sauvegarde score et crédit
 
 
 VOLKAN : collision.py ==> gere  la collision entre les  divers composants du jeu (joueur, ennemies, missile)
@@ -17,11 +15,11 @@ VOLKAN : collision.py ==> gere  la collision entre les  divers composants du jeu
 
 PRESLEY : playerMoves.py ==> gere les mouvements du joueur (gauche , droite)
           
-	  bulletMoves.py ==> gere les mouvements des balles (bas vers la limite haute de l'écran)
+bulletMoves.py ==> gere les mouvements des balles (bas vers la limite haute de l'écran)
 
 STEPHEN : ennemiesMoves.py : gere les mouvements des ennemies ( haut vers le bas de l'écran en se déplacant de gauche a doite)
 	        
-		main.py  ==> gere le deroulement du jeu (boucle sur le déroulement du jeu en se servant des divers module réalisés)
+main.py  ==> gere le deroulement du jeu (boucle sur le déroulement du jeu en se servant des divers module réalisés)
 
 
 Dérouelement du Jeu BRICK SHOOTER:
