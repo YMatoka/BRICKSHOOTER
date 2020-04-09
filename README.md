@@ -5,7 +5,7 @@ Pour lancer le jeu il faut RUN le module "brickShooter.py"
 
 Répartition des tâches de dévelopepemnt:
 
-YANN :  brickshooter.py  ==> Menu principal (affichage regle, choix equipement,sauvegaDE)
+YANN :  brickshooter.py  ==> Menu principal (affichage regle, choix equipement,sauvegarde)
 
 gameComponents   ==> Creation composant du jeu (joueur, ennemies, terrain, missile) Ecran Fin de Partie / Sauvegarde score et crédit
 
