@@ -22,7 +22,7 @@ STEPHEN : ennemiesMoves.py : gere les mouvements des ennemies ( haut vers le bas
 main.py  ==> gere le deroulement du jeu (boucle sur le déroulement du jeu en se servant des divers module réalisés)
 
 
-Dérouelement du Jeu BRICK SHOOTER:
+Déroulement du Jeu BRICK SHOOTER:
 
 Le Jeu comprend une premiere interface graphique où le joueur peut realiser diverses actions:
 
